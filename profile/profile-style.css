@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+
+span{
+    border: 2px dotted green;
+}
+
+.a{
+    background-color: rgb(210, 255, 239);
+}
+
+.s{
+    background-color: rgb(225, 203, 174);
+}
